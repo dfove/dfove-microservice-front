@@ -1,0 +1,36 @@
+{
+    "type1": [
+        {
+            "name": "首页",
+            "icon": "icon-shoujishumadiannao"
+        },
+        {
+            "name": "日常管理",
+            "icon": "icon-01_richangguanli"
+        },
+        {
+            "name": "老人管理",
+            "icon": "icon-laoren"
+        },
+        {
+            "name": "费用管理",
+            "icon": "icon-feiyongguanli"
+        },
+        {
+            "name": "基础管理",
+            "icon": "icon-ziyuan"
+        },
+        {
+            "name": "咨询接待",
+            "icon": "icon-zixun"
+        },
+        {
+            "name": "文件夹",
+            "icon": "icon-24gl-folderOpen"
+        }
+    ],
+    "type2": [],
+    "type3": [],
+    "type4": [],
+    "type5": []
+}
